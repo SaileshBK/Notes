@@ -19,6 +19,7 @@ The Nushell project aims to merge the Unix shell philosophy of connecting simple
 
 ### Configuration:
    If needed profile for terminal -  set in settings.json 
+   
    ![image](https://github.com/SaileshBK/Notes/assets/101400043/4acb2cbe-8845-4175-a1eb-a567b51768b0)
 
 ### Tips and Troubleshooting:
