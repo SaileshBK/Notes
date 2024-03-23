@@ -1,1 +1,1 @@
-# Notes
+# Personal setup notes
