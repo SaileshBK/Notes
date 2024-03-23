@@ -27,7 +27,8 @@ The Nushell project aims to merge the Unix shell philosophy of connecting simple
 
 ### Tips and Troubleshooting:
 - Easy to set aliases - config command is useful to set aliases 
-- ```config nu```
+```config nu```
+-
 ![image](https://github.com/SaileshBK/Notes/assets/101400043/24dc8351-516e-40ec-8b81-374eab209929)
 
 
