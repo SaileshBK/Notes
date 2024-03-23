@@ -1,4 +1,4 @@
-# Personal setup notes
+# Personal Obsidian Notes
 
 Front-end :
 
