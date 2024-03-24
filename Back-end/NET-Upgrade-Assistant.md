@@ -1,3 +1,4 @@
+**Tags**: #dotnet #productivity #visual-studio #extension #back-end
 # The Best Tool For .NET Project Upgrade
 
 ## Package Name: [.NET Upgrade Assistant]
