@@ -1,3 +1,5 @@
+**Tags**: #nushell #productivity #vs-code #terminal #front-end
+
 # Unix philosophy of shells
 
 ## Package Name: Nushell
