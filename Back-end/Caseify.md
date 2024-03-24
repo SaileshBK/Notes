@@ -17,9 +17,5 @@ A robust Visual Studio extension, simplifies and improves coding by seamlessly t
 
 #LowerCase : ALT + L : [ HelloWorld --> helloworld ]
 
-### Tips and Troubleshooting:
-- [Provide any tips or best practices for using the package]
-- [Note common issues or errors and their solutions]
-
 ### Additional Notes:
 - Need More feature ya.
