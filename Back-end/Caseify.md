@@ -1,5 +1,5 @@
 **Tags**: #caseify #productivity #visual-studio #extension #back-end
-	
+
 ## Package Name: Caseify
 
 Link:  [[https://marketplace.visualstudio.com/items?itemName=Sailesh-BK.Caseify]]
