@@ -11,6 +11,6 @@
 # Extensions
 
 
-| Chrome                                          | Use Case |
-| :---------------------------------------------- | :------- |
-| [Dark-Reader](Extensions/Chrome/Dark Reader.md) |          |
+| Chrome                                         | Use Case |
+| :--------------------------------------------- | :------- |
+| [DarkReader](Extensions/Chrome/Dark Reader.md) |          |
