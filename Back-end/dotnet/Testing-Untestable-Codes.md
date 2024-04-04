@@ -10,4 +10,8 @@ In Directory.Build.targets file:
 </Project>
 ~~~
 
+Note: Directory.Build.targets is the file that our msbuild will look and apply anything we provide in there during the build process.
+
+This approach is really good for big projects with same naming conventions.
+
 
