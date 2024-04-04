@@ -7,3 +7,10 @@
 | [Ngrok](Front-end/Ngrok.md)                                         | Reverse proxy front-end apps                                                    |     |     |
 | [Nushell](Front-end/Nushell.md)                                     | User friendly advance Unix philosophy shell                                     |     |     |
 | [Testing-Untestable-Codes.md](Back-end/Testing-Untestable-Codes.md) | Using InternalVisibleTo for accessing internal members from different assembly. |     |     |
+
+# Extensions
+
+
+| Chrome                                          | Use Case |
+| :---------------------------------------------- | :------- |
+| [Dark-Reader](Extensions/Chrome/Dark Reader.md) |          |
