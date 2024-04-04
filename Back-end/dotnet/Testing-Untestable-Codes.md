@@ -7,6 +7,7 @@ In Directory.Build.targets file:
 	<ItemGroup>
 		<InternalVisibleTo Include="$(AssemblyName).Tests" />
 		<InternalVisibleTo Include="$(AssemblyName).New.Tests" />
+		<InternalVisibleTo Include="Integration.Tests" />
 	</ItemGroup>
 </Project>
 ~~~
