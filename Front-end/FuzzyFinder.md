@@ -1,7 +1,7 @@
 
 Useful commands:
 
-1) To search the file and get the preview  of the file on the side
+1) To search the file and get the preview of the file on the side with syntax Highlighting:
 ~~~ 
 fzf --preview 'bat --color=always {}'
 ~~~
