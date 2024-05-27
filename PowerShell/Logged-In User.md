@@ -14,10 +14,12 @@ $env:username
 ~~~ 
 [Security.Principal.WindowsIdentity]::GetCurrent().Name
 ~~~ 
+
 #### Via Win32_ComputerSystem Class
 ~~~ 
 (Get-CimInstance -ClassName Win32_ComputerSystem).UserName
 ~~~ 
+
 #### Via the Whoami Command
 ~~~ 
 (whoami).Split("\")[1]
