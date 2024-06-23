@@ -31,7 +31,7 @@ The Nushell project aims to merge the Unix shell philosophy of connecting simple
 ![image](https://github.com/SaileshBK/Notes/assets/101400043/24dc8351-516e-40ec-8b81-374eab209929)
 
 
-# Aliases ------------------------------------------------------------------------------------
+# Aliases 
 
 # list aliases
 alias aliases = help aliases
@@ -45,4 +45,24 @@ alias nrs = npm run start
 # FuzzyFinder for Current project files 
 alias fuzzy = fzf --preview 'bat --color=always {}' --bind 'enter:execute(cursor {})'
 
-# -----------------------------------------------------------------------------------------
+
+# Shell Wrappers
+
+def --env yy [...args] {
+	let tmp = (mktemp -t "yazi-cwd.XXXXXX")
+	yazi ...$args --cwd-file $tmp
+	let cwd = (open $tmp)
+	if $cwd != "" and $cwd != $env.PWD {
+		cd $cwd
+	}
+	rm -fp $tmp
+}
+
+-----------------------------------------------------------------------------------------------  
+
+
+# Setting environment variables 
+
+$env.YAZI_FILE_ONE = "C:/Program Files/Git/usr/bin/file.exe"
+
+-----------------------------------------------------------------------------------------------
