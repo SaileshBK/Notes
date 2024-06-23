@@ -62,3 +62,12 @@ def --env yy [...args] {
 # Setting environment variables 
 
 $env.YAZI_FILE_ONE = "C:/Program Files/Git/usr/bin/file.exe"
+
+## Fixing NerdFont Issue
+
+Make sure to use this in ```settings.json```
+
+``` 
+"editor.fontFamily": "fira-code-nerd, FiraCode Nerd Font, Consolas, 'Courier New', monospace",
+"editor.fontLigatures": true
+```
