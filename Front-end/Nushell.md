@@ -48,7 +48,7 @@ alias fuzzy = fzf --preview 'bat --color=always {}' --bind 'enter:execute(cursor
 
 # Shell Wrappers
 
-### For Yazi
+### Setting yy to execute Yazi
 def --env yy [...args] {
 	let tmp = (mktemp -t "yazi-cwd.XXXXXX")
 	yazi ...$args --cwd-file $tmp
