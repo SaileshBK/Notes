@@ -1,0 +1,1 @@
+https://yazi-rs.github.io/docs/quick-start

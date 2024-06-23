@@ -63,7 +63,7 @@ def --env yy [...args] {
 
 $env.YAZI_FILE_ONE = "C:/Program Files/Git/usr/bin/file.exe"
 
-## Fixing NerdFont Issue
+# Fixing NerdFont Issue
 
 Make sure to use this in ```settings.json```
 
