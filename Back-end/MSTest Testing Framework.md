@@ -1,0 +1,1 @@
+MSTest uses the `[TestClass]` and `[TestMethod]` attributes to denote a class as a test class and, a method as a test method, respectively.
