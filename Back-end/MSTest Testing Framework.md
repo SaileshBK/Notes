@@ -44,3 +44,6 @@ public class MSTestUserServiceTests
 
 ## Note: 
 It is important to note that in MSTest all the methods used to initialize and cleanup the tests follow strict naming conventions.** MSTest can only recognize these methods as part of the test setup if we follow the convention.
+
+## Reference
+https://code-maze.com/csharp-testing-framework-differences-between-nunit-xunit-and-mstest/?ref=dailydev
