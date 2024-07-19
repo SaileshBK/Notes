@@ -12,5 +12,5 @@ sudo nala install ufw
 Now start ufw :
 
 ~~~
-sudo systemctl start ufwe
+sudo systemctl start ufw
 ~~~
