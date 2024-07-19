@@ -1,4 +1,4 @@
-## Reference: 
+## Reference
 [[https://fireship.io/lessons/windows-10-for-web-dev/]]
 
 ## Enable Windows-Subsystem-Linux (WSL)
