@@ -15,3 +15,21 @@ Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-L
 sudo apt update
 sudo apt upgrade -y
 ```
+
+
+## WSL From Terminal
+
+You have to download the Linux distributions as it is not pre-installed in windows
+
+```
+wsl --list --online 
+```
+
+Gives you list of valid distribution that you can be installed. Command to install any one distribution from list. 
+
+```
+wsl --install -d <Distro> 
+```
+
+
+Note : - Using Linux or Kali Linux by this method is not as same as running Kali Linux on a virtual machine (VMWare or VirtualBox).
