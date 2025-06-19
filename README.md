@@ -8,10 +8,9 @@
 | [Nushell](Front-end/Nushell.md)                                  | User friendly advance Unix philosophy shell                                     |     |     |
 | [Testing-Untestable-Codes](Back-end/Testing-Untestable-Codes.md) | Using InternalVisibleTo for accessing internal members from different assembly. |     |     |
 | [Yazi](Front-end/Yazi.md)<br>                                    | Blazing fast terminal file manager written in Rust, based on async I/O.         |     |     |
-|                                                                  |                                                                                 |     |     |
+| [Local-SQL_Server](Back-end/Local%20SQL%20Server%20Setup.md)     | Local SQL DB Instance setup instructions                                        |     |     |
 
 # Extensions
-
 
 | Chrome                                        | Use Case                     |
 | :-------------------------------------------- | :--------------------------- |
